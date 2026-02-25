@@ -1,6 +1,8 @@
 # Personal Website Project
 
 ## Overview
+![Personal Website Screenshot](./Chen%20Kuan%20Yu%20_%20Personal%20Website.png)
+
 This is a modern, single-page personal website created for Chen Kuan Yu. It features a sleek, premium design with a dark-mode space aesthetic and a dynamic real-time clock displaying the user's local time.
 
 ## Project Structure
